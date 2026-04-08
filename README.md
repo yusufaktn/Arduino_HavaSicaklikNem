@@ -8,7 +8,7 @@ Amaç, düşük maliyetli bir donanım ile ortam sıcaklık ve nem değerlerini 
 
 ⚙️ Kullanılan Teknolojiler :
 
-Donanım
+-Donanım
 ESP8266 (Wi-Fi destekli mikrodenetleyici)
 Sıcaklık ve Nem Sensörü (DHT11 / DHT22)
 Yazılım
@@ -17,7 +17,7 @@ Arduino IDE (ESP8266 programlama)
 HTTP / REST API veya WebSocket (veri iletişimi - kullanımına göre düzenlenebilir)
 
 
-🚀 Özellikler
+-🚀 Özellikler
 📡 Gerçek zamanlı sıcaklık ve nem verisi takibi
 🌐 ESP8266 üzerinden kablosuz veri gönderimi
 📱 Flutter mobil uygulama ile kullanıcı dostu arayüz
@@ -25,7 +25,7 @@ HTTP / REST API veya WebSocket (veri iletişimi - kullanımına göre düzenlene
 🧩 Modüler ve geliştirilebilir yapı
 
 
-🏗️ Sistem Mimarisi
+-🏗️ Sistem Mimarisi
 Sensör ortamdan sıcaklık ve nem verisini toplar
 ESP8266 bu veriyi işler ve internet üzerinden gönderir
 Flutter uygulaması bu veriyi alır ve kullanıcıya gösterir
@@ -33,13 +33,13 @@ Flutter uygulaması bu veriyi alır ve kullanıcıya gösterir
 
 
 
-📲 Uygulama Özellikleri
+-📲 Uygulama Özellikleri
 Anlık sıcaklık ve nem değerlerini görüntüleme
 Basit ve anlaşılır kullanıcı arayüzü
 Genişletilebilir yapı (grafik, geçmiş veri, bildirim vb. eklenebilir)
 
 
-🔧 Kurulum
+-🔧 Kurulum
 1. Donanım Kurulumu
 Sensörü ESP8266’ya bağlayın
 Gerekli pin bağlantılarını yapın
